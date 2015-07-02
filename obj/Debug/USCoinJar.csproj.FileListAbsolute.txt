@@ -1,0 +1,6 @@
+C:\Users\Harsh\Documents\Visual Studio 2012\Projects\USCoinJar\USCoinJar\bin\Debug\USCoinJar.exe.config
+C:\Users\Harsh\Documents\Visual Studio 2012\Projects\USCoinJar\USCoinJar\bin\Debug\USCoinJar.exe
+C:\Users\Harsh\Documents\Visual Studio 2012\Projects\USCoinJar\USCoinJar\bin\Debug\USCoinJar.pdb
+C:\Users\Harsh\Documents\Visual Studio 2012\Projects\USCoinJar\USCoinJar\obj\Debug\USCoinJar.csprojResolveAssemblyReference.cache
+C:\Users\Harsh\Documents\Visual Studio 2012\Projects\USCoinJar\USCoinJar\obj\Debug\USCoinJar.exe
+C:\Users\Harsh\Documents\Visual Studio 2012\Projects\USCoinJar\USCoinJar\obj\Debug\USCoinJar.pdb
